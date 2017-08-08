@@ -53,7 +53,6 @@ public class TestSpeed {
 
     }
 
-
     private void testFillList(List list) {
         long start = System.nanoTime();
         for (int i = 0; i < COUNT; i++) {
